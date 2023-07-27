@@ -1,0 +1,10 @@
+body {
+  height: 100%;
+  width: 99%;
+  font-weight: 400;
+  font-family: sans-serif;
+  background: #c9edf5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #c1f8fc, #a796af, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,  #c1f8fc, #f9a3e1, #a7dbb5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}

@@ -1,0 +1,22 @@
+.navb{
+    justify-content: left;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 100%;
+    height: 10%;
+    font-family: Algerian;
+    color: aliceblue;
+}
+.emp{
+    margin-top: 15px;
+    margin-left: 2px;
+    width: 48%; 
+}
+.empform{
+    border:2px solid rgb(0, 0, 0);
+    margin-top: -50px;
+    float:right;
+    width:48%;
+    padding: 5px;
+}
